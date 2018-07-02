@@ -1,8 +1,9 @@
 # Cats vs Dogs
 Classification of Images of cats and dogs using a convolutional neural network.
 
-### Data Set
-The data set can be downloaded from the problem "Cats vs Dogs Redux" on Kaggle.
-
 ### How to Run
+Make sure you have installed all the required libraries.
+
+Then just run the following command.
+
 ```python3 cats_vs_dogs_CNN.py```
